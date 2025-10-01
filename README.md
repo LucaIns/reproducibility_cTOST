@@ -1,5 +1,8 @@
 # reproducibility_cTOST
 
+Data and source code to reproduce the application and simulation results in: L. Insolia, Y. Ma, Y. Boulaguiem and S. Guerrier (2025), "_Bioequivalence Assessment for Locally Acting Drugs: A Framework for Feasible and Efficient Evaluation_".
+[arXiv](https://arxiv.org/abs/2507.22756)
+
 This repository contains the following files:
 
 - `run_case_study.R`: to reproduce the results of the case study
